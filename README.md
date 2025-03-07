@@ -3,7 +3,7 @@
 ### Evaluating key diabetes risk factors in the US
 
 [GitHub Repo](https://github.com/cmattamira/Health-Insights)  
-[Executive Summary](https://cmattamira.github.io/blob/main/files/Executive%20_Summary_Diabetes.pdf)
+[Executive Summary](https://cmattamira.github.io/files/Executive_Summary_Diabetes.pdf)
 
 
 
