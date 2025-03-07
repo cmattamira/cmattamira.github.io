@@ -3,7 +3,9 @@
 ### Evaluating key diabetes risk factors in the US
 
 [GitHub Repo](https://github.com/cmattamira/Health-Insights)  
-[Executive Summary](https://github.com/cmattamira/cmattamira.github.io/blob/main/files/Executive%20_Summary_Diabetes.pdf)
+[Executive Summary](https://cmattamira.github.io/blob/main/files/Executive%20_Summary_Diabetes.pdf)
+
+
 
 As part of the [Erdos Institute](https://www.erdosinstitute.org/) Data Science Bootcamp group project, my group ([Shravan Patankar](https://www.linkedin.com/in/shravan-patankar/), [Leyda Almodóvar](https://www.linkedin.com/in/leyda-almod%C3%B3var-vel%C3%A1zquez-phd-66366335/), [Neal Edgren](https://www.linkedin.com/in/neal-edgren-204011112/), and I) conducted a data-driven analysis to identify key diabetes risk factors in the U.S., highlighting the role of socioeconomic disparities. See the attached executive summary and Github repo for more details.
 
