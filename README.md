@@ -12,9 +12,9 @@ As part of the [Math-to-Industry Bootcamp](https://cse.umn.edu/ima/events/math-i
 
 [GitHub Repo](https://github.com/cmattamira/Health-Insights)  
 [Executive Summary](https://cmattamira.github.io/files/Executive_Summary_Diabetes.pdf)  
-[5-minute Presentation](https://cmattamira.github.io/files/Health_Insights.mp4)
+[5-minute Presentation](https://www.erdosinstitute.org/certificates/fall-2024/data-science-boot-camp/chiara-mattamira)
 
-As part of the [Erdos Institute](https://www.erdosinstitute.org/) Data Science Bootcamp group project, my group ([Shravan Patankar](https://www.linkedin.com/in/shravan-patankar/), [Leyda Almodóvar](https://www.linkedin.com/in/leyda-almod%C3%B3var-vel%C3%A1zquez-phd-66366335/), [Neal Edgren](https://www.linkedin.com/in/neal-edgren-204011112/), and I) conducted a data-driven analysis to identify key diabetes risk factors in the U.S., highlighting the role of socioeconomic disparities. See the attached executive summary and Github repo for more details, and check out our [five-minute presentation](https://cmattamira.github.io/files/Health_Insights.mp4), where we walk through our pipeline and key findings. 
+As part of the [Erdos Institute](https://www.erdosinstitute.org/) Data Science Bootcamp group project, my group ([Shravan Patankar](https://www.linkedin.com/in/shravan-patankar/), [Leyda Almodóvar](https://www.linkedin.com/in/leyda-almod%C3%B3var-vel%C3%A1zquez-phd-66366335/), [Neal Edgren](https://www.linkedin.com/in/neal-edgren-204011112/), and I) conducted a data-driven analysis to identify key diabetes risk factors in the U.S., highlighting the role of socioeconomic disparities. See the attached executive summary and Github repo for more details, and check out our [five-minute presentation](https://www.erdosinstitute.org/certificates/fall-2024/data-science-boot-camp/chiara-mattamira), where we walk through our pipeline and key findings. 
 
 
 ### Developing efficient MCMC algorithms for single-molecule fluorescence data and step counting
