@@ -20,7 +20,7 @@ As part of the [Erdos Institute](https://www.erdosinstitute.org/) Data Science B
 ### Developing efficient MCMC algorithms for single-molecule fluorescence data and step counting
 
 [GitHub Repo](https://github.com/sgouralis-research-group/step_finder)  
-[Publication]()
+[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0006349525005260)
 
 This is an extensive research project I have done in collaboration with my advisor [Dr. Ioannis Sgouralis](https://math.utk.edu/labs/sgouralis/) as part of my doctoral research work. In this study, we introduce a novel statistical methodology for robust and efficient analysis of fluorescence data. Our innovative approach not only enhances the accuracy and reliability of data analysis following a fluorescence experiment but also permits high throughput applications. Our methods represent a significant advancement that may extend fluorescence techniques beyond high SNR and small data regimes. 
 To broaden the applicability of our method, we built a use friendly [app](https://github.com/sgouralis-research-group/step_finder) that can be used directly by experimentalists. 
