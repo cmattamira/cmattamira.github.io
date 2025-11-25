@@ -24,7 +24,9 @@ As part of the [Erdos Institute](https://www.erdosinstitute.org/) Fall 2024 Data
 
 ### Predicting antibiotic resistance from clinical and microbiological data *(In Progress)*
 
-**(GitHub Repo coming soon)**  
+[GitHub Repo](https://github.com/Erdos-Projects/fall-2025-antibiotic-effectiveness)
+[Executive Summary](https://cmattamira.github.io/files/Executive_Summary_Antibiotics.pdf)
+[5-minute Presentation](https://www.erdosinstitute.org/certificates/fall-2025/data-science-boot-camp/chiara-mattamira/0b910526-e59e-413c-9f3c-0d99c2fa5ef2)
 
 As part of the [Erdos Institute](https://www.erdosinstitute.org/) Fall 2025 Data Science Bootcamp group project, my group ([Dominique Hughes](https://www.linkedin.com/in/dominique-hughes-896099329/), [Tinghao Huang](https://www.linkedin.com/in/tinghao-huang-0ba743247/), [Haejun Oh](https://www.linkedin.com/in/haejunoh/), and [Mustafain Ali](https://www.linkedin.com/in/alimustafain/)) and I are working with a large publicly available dataset of clinical isolates and antibiotic susceptibility results ([Dryad Repository](https://datadryad.org/dataset/doi:10.5061/dryad.jq2bvq8kp)) to explore and predict patterns of antibiotic resistance.  
 We aim to evaluate models that predict resistance either for individual antibiotics or at the patient level and to identify the features most predictive of resistance outcomes. Our goal is to generate actionable insights into antimicrobial resistance patterns while refining model interpretability and generalization.
